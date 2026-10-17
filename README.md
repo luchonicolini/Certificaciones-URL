@@ -10,3 +10,7 @@ Documentos públicos requeridos para las aplicaciones de Luciano Nicolini.
 
 - [Política de privacidad](privacy.html)
 - [Eliminación de cuenta](delete-account.html)
+
+## Gastos Compartidos
+
+- [Política de privacidad](gastos-compartidos/privacy.html)
